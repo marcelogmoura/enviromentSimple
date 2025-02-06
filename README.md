@@ -22,8 +22,6 @@ Lista de instalação dos softwares necessários para criação dos ambientes de
 
 - [ ] 🍃 [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
 
-
-
 ---
 
 ## Docker
